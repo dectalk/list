@@ -1,0 +1,38 @@
+body {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+.mobile {
+  @media (min-width: 651px) {
+    display: none !important;
+  }
+}
+
+.desktop {
+  @media (max-width: 650px) {
+    display: none !important;
+  }
+}
+
+.table-container {
+  table {
+    color: black;
+    thead {
+      font-weight: bold;
+    }
+    tr {
+      page-break-inside: avoid;
+    }
+    td, th {
+      border: 1px solid #dddddd;
+    }
+    td {
+      background-color: #ffffff;
+    }
+  }
+}
+
+button.btn {
+  box-shadow: unset;
+}
