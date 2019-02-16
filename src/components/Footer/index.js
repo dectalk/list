@@ -10,7 +10,13 @@ class Footer extends React.Component {
             MIT Licence
           </a>
         </div>
-        <p className="footer-copyright">DECtalk is a product of Fonix Speech, Inc. and is not associated with this website.</p>
+        <p className="footer-copyright">
+          DECtalk is a product of Fonix Speech, Inc. and is not associated with this website.<br />
+          Made with love in
+          <a href="https://reactjs.org/"> React</a>,
+          <a href="https://www.gatsbyjs.org/"> Gatsby</a> and
+          <a href="https://github.com/AlexFlipnote/ModestaCSS"> ModestaCSS</a>.
+        </p>
       </footer>
     );
   }
