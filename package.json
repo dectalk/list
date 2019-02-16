@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "dectalk-list",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "View a vast range of DECtalk strings, curated and created by the community.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "7coil <admin@moustacheminer.com>",
   "dependencies": {
     "gatsby": "^2.1.4",
     "gatsby-image": "^2.0.29",
@@ -35,9 +35,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/dectalk/list"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/dectalk/list/issues"
   }
 }
