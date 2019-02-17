@@ -13,7 +13,7 @@ class Item extends React.Component {
     this.textarea = React.createRef();
     this.loading = false;
     this.state = {
-      playButtonText: 'Load',
+      playButtonText: 'Play in browser',
       blobURL: null,
       loading: false,
     };
@@ -57,6 +57,11 @@ class Item extends React.Component {
       <ItemLayout>
         <SEO title={data.frontmatter.name} keywords={['dectalk', 'list']} />
         <h2>{data.frontmatter.name}</h2>
+        {
+          data.frontmatter.by ?
+            <p>By: {data.frontmatter.by}</p> :
+            null
+        }
         <div className="row">
           <a className="btn asbestos" onClick={this.copy}>Copy</a>
           {
@@ -66,7 +71,7 @@ class Item extends React.Component {
           }
           {
             data.frontmatter.link ?
-              <a className="btn asbestos" href={data.frontmatter.link}>Source</a> :
+              <a className="btn asbestos" href={data.frontmatter.link}>{data.frontmatter.by || 'Source'}</a> :
               null
           }
         </div>
@@ -95,9 +100,7 @@ export const pageQuery = graphql`
       frontmatter {
         name
         link
-      }
-      fields {
-        filename
+        by
       }
     }
   }

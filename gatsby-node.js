@@ -9,20 +9,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
     createNodeField({
       node,
-      name: 'filename',
-      value: parts[1] || parent.name
-    });
-
-    createNodeField({
-      node,
-      name: 'category',
-      value: parts[0] || 'other'
-    });
-
-    createNodeField({
-      node,
       name: 'permalink',
-      value: `/${parts[0]}/${parts[1] || (parent.name === 'index' ? '' : parent.name)}`
+      value: `/${parts.join('/')}/${parent.name === 'index' ? '' : parent.name}`
     });
   }
 };
