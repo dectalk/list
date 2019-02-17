@@ -10,9 +10,15 @@ class Item extends React.Component {
     return (
       <GlobalLayout>
         <SEO title="Homepage" keywords={['dectalk', 'list']} />
-        <div>
-          Put some inspirational message about how DECtalk is excellent.
-        </div>
+        <h1>DECtalk</h1>
+        <form action="https://talk.moustacheminer.com/api/gen">
+          <h2>Generate some DECtalk</h2>
+          <p>Insert your query into the box and click the submit button.</p>
+          <textarea className="dectalk-textarea full-width" ref={this.textarea} name="dectalk"></textarea>
+          <button className="btn asbestos">Submit</button>
+        </form>
+        <h2>List of DECtalks</h2>
+        <p>Help this website by adding more DECtalk examples at <a href="https://github.com/dectalk/list/tree/master/data">GitHub</a></p>
         <ul>
           {pages.map((page) => (
             <li key={page.fields.permalink}>
