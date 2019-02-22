@@ -1,3 +1,8 @@
+---
+name: Santana - Smooth
+link: https://pastebin.com/u/Sobsz
+by: Sobsz
+---
 [_<1,15>meh<180>nih<180>tsah<180,13>hxaa<300,17>t_<100>wah<400,10>n]
 [_<1,15>lxay<150>kseh<180>vae<180,13>nih<180,15>nchih<160,13>sfrao<130,15>mdheh<180,13>mih<200,17>ddey<450,10>sah<450,13>n]
 [_<1,15>wlxay<200>hxiy<200>ryu<200,13>wih<200,15>sprr<200,13>eh<200,15>ndeh<200,13>wrr<600,15>ds]

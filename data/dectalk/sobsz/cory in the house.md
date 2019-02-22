@@ -1,3 +1,8 @@
+---
+name: Cory in the House
+link: https://pastebin.com/u/Sobsz
+by: Sobsz
+---
 [:np][ah<99>mdah<99>n'/yu<200>k\ih<200>dm'/uw<99>vih<99>n'\ih<200>n_geh<99>dxih<99>n/ih<99>dhd'\ahn_<99>eh<99>nay<99>mao<99>]
 [f/'ihshahl'iy<99>dahk'ehnihd/ih<99>dhf\ow<99>hxae<99>v'ih<50>ns/uhmf'\ahn_<200>yun'ow]
 [:nb][_<1,29>yu<300>beh<250,31>dah<250,34>kaa<550,36>lxmdaa<300,31>wnkow<550,34>riy<900,31>]

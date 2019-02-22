@@ -1,3 +1,8 @@
+---
+name: Soviet National Anthem
+link: https://pastebin.com/u/Sobsz
+by: Sobsz
+---
 [_<1,20>rao<300>siy<750,25>yxaa<400,20>svih<100,22>cheh<750,24>naa<350,17>]
 [_<1,17>yxaa<300>naa<750,22>shaa<500,20>deh<150,18>rzhaa<700,20>vaa<350,13>]
 [_<1,13>rao<250>siy<750,15>yxaa<400>lxyu<150,17>biy<700,18>maa<500>yxaa<150,20>naa<700,22>shaa<400,24>straa<200,25>naa<900,27>]

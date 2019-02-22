@@ -1,3 +1,8 @@
+---
+name: All Star
+link: https://pastebin.com/u/Sobsz
+by: Sobsz
+---
 [_<1,19>saa<250>m_<200>baa<250,26>diy<200,23>wah<250>ns_<100>tao<200,21>lxdmiy<200,19>]
 [_<1,19>dah<200>wao<500,24>rlxdih<200,23>zgah<250>nah<250,21>row<200>lxmiy<250,19>]
 [_<1,19>ay<250>ey<250,26>ntdhah<200,23>shah<200>rpih<200,21>stuw<200>lxih<200,19>ndah<200>shae<500,16>ae<800,14>d]
