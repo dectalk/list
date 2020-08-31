@@ -1,2 +1,2 @@
 # list
-A repository of DECtalk strings.
+A repository of DECtalk talking points
